@@ -6,7 +6,7 @@ An Assignment for my subject, Data Visualization.
 
 How to run the Interaction Visualization
 for Population vs Employment
-
+```
 Step 1: Download and install Xampp
 Step 2: extract the file in htdocs
 Step 3: go to the data file and open the CombineData.csv
@@ -17,3 +17,4 @@ Step 7: Open XAMPP Control Panel and Start Apache
 Step 8: Open any browser, at the URL: type "localhost"
 Step 9: Open the file where u extract and click on Population vs Employment.html
 Step 10: Enjoy. :)
+```
